@@ -1,0 +1,8 @@
+.settings/*
+.project
+*.DS_Store
+*.mov
+wp-config.php
+wp-content/uploads/*
+setup/*
+
